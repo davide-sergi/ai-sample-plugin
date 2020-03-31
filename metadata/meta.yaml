@@ -1,0 +1,18 @@
+
+publisher: stmicroelectronics
+apiVersion: v2
+version: 0.0.1
+type: Theia plugin
+name: ai
+deprecate:
+  autoMigrate: true
+  migrateTo: stmicroelectronics/ai/latest
+displayName: Artificial Intelligence
+title: Artificial Intelligence
+description: This plugin provides AI capabilities to enable prototyping with ST components
+icon: https://www.coxlab.kr/doxygen/Nol.A-SDK/STM32_Nucleo_board_breadboard.svg
+category: Other
+repository: https://github.com/davide-sergi/ai-sample-plugin
+spec:
+  extensions:
+  - https://github.com/davide-sergi/ai-sample-plugin/releases/download/v0.0.1/ai-sample-plugin.theia
