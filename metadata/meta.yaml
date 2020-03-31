@@ -15,4 +15,4 @@ category: Other
 repository: https://github.com/davide-sergi/ai-sample-plugin
 spec:
   extensions:
-  - https://github.com/davide-sergi/ai-sample-plugin/releases/download/v0.0.1/ai-sample-plugin.theia
+  - https://github.com/davide-sergi/ai-sample-plugin/releases/download/0.0.1/ai-sample-plugin.theia
