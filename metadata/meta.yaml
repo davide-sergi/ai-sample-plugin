@@ -3,7 +3,7 @@ publisher: stmicroelectronics
 apiVersion: v2
 version: 0.0.1
 type: Theia plugin
-name: ai
+name: distributed-ai
 deprecate:
   autoMigrate: true
   migrateTo: stmicroelectronics/ai/latest
